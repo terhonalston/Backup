@@ -1,0 +1,10 @@
+.container {
+    color: green;
+    size: 40px;
+    background-color: black;
+}
+
+button {
+    color: red;
+    size: 25px;
+}
